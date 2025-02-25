@@ -1,2 +1,2 @@
-#我的工作记录
+convert_sort_index.sh:sam文件转bam然后排序然后索引
 
